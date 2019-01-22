@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1548157210028.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1486087605",
+    "id" : "11ACDB47",
+    "lastKnownWriteTime" : 1548156462,
+    "last_content_update" : 1548156462,
+    "path" : "~/Documents/Study/Python_R_code/RShiny-with-d3-visualisation/RShiny-with-d3-visualisation/modules/Barchart/BarchartUI.R",
+    "project_path" : "modules/Barchart/BarchartUI.R",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

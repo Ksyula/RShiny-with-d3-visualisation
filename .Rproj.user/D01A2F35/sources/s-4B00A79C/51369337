@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1548157212663.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "51369337",
+    "lastKnownWriteTime" : 1548156520,
+    "last_content_update" : 1548156520,
+    "path" : "~/Documents/Study/Python_R_code/RShiny-with-d3-visualisation/RShiny-with-d3-visualisation/modules/Graph/GraphUI.R",
+    "project_path" : "modules/Graph/GraphUI.R",
+    "properties" : {
+        "cursorPosition" : "1,8",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
