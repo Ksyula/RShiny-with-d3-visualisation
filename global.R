@@ -2,7 +2,6 @@
 # Shiny Development Playground with D3 visualisation 
 # This is the server logic for a Shiny web application.
 
-setwd("/Users/ksenia/Documents/Study/Python_R_code/RShiny-with-d3-visualisation/RShiny-with-d3-visualisation")
 # All libraries 
 library("shiny")
 library("shinydashboard")

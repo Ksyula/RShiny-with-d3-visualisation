@@ -8,8 +8,8 @@ dashboardPage(skin = "green",
                               tags$li("Test", class="dropdown")),
               dashboardSidebar(collapsed = FALSE,
                                sidebarMenu(id = "tabs",
-                                           menuItem("Barchart - d3r", tabName = "tab_Barchart", icon = icon("ellipsis-h")),
+                                           menuItem("Barchart - r2d3", tabName = "tab_Barchart", icon = icon("ellipsis-h")),
                                            menuItem("Graph - d3Network", tabName = "tab_Graph", icon = icon("snowflake-o")))),
               dashboardBody(tabItems(tabItem(tabName = "tab_Barchart", BarchartUI("Barchart")),
-                            tabItem(tabName = "tab_Graph", GraphUI("Graph"))))
+                                     tabItem(tabName = "tab_Graph", GraphUI("Graph"))))
 )
