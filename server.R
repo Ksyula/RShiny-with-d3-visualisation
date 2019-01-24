@@ -4,5 +4,4 @@
 shinyServer(function(input, output, session) {
   callModule(Barchart, "Barchart")
   callModule(Graph, "Graph")
-  
 })

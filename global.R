@@ -7,11 +7,12 @@ setwd("/Users/ksenia/Documents/Study/Python_R_code/RShiny-with-d3-visualisation/
 library("shiny")
 library("shinydashboard")
 library("data.table")
+library("r2d3") # Barchart from row JS
+library("d3Network") # Graph from data.frames with d3ForceNetwork() func
 
 
 # Load shiny modules by listing all R files in the workspace and filtering
 fileSources <- list.files(pattern = "*.R", recursive = T)
-print(fileSources)
 fileSources <- fileSources[grepl("modules", fileSources)]
-print(fileSources)
 sapply(fileSources, source, .GlobalEnv)
+
